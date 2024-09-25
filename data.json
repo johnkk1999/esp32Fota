@@ -1,0 +1,11 @@
+[
+  {
+    "id": "iry8347853wkdhf",
+    "type": "esp32-0ta-http",
+    "version": 2,
+    "host": "192.168.0.100",
+    "port": 80,
+    "bin": "https://ff52-2c0f-fe38-211c-8039-15f9-7070-708d-6e96.ngrok-free.app/pdf"
+  }
+]
+  
